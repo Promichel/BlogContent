@@ -10,3 +10,7 @@ Wenn ihr wissen wollt wie genau das abläuft, dann lest euch doch einfach nochma
 Ob wir dieses mal antreten werden steht leider noch in den Sternen, weil am gleichen Wochenende die [FrosCon] in Sankt Augustin bei Bonn stattfindet, welche ebenfalls einen Besuch wert ist.  
 
 Sollten wir aber dabei sein, dann gibt das eine Mega Sause :D
+
+[ludum dare]: http://ludumdare.com/compo
+[ludum dare 23]: #Ludum-Dare-23
+[froscon]: http://www.froscon.de
