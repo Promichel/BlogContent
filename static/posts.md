@@ -1,4 +1,3 @@
 @published[{
-Zweiter-Test,
-Hello-World
+Ludum-Dare-23
 }]

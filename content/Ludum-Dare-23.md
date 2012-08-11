@@ -1,0 +1,39 @@
+# Ludum Dare 23 #
+**Dienstag, 24. April 2012**  
+
+Welch interessantes Wochenende das doch war :) In der Nacht von Freitag auf Samstag ging es los. Punkt 03:00 Uhr Nachts am Samstag wurde das Thema der #LD23 bekannt gegeben "Tiny World". Aber diesem Punkt hat man 48 Stunden Zeit alleine ein Spiel zu entwickeln, oder aber, wie wir, in Teamarbeit in Maximal 72 Stunden.
+Da wir was Spielentwicklung im Allgemeinen betrifft noch blutige Anfänger sind, war dieser Wettbewerb für uns natürlich nochmal ein ordentlich Happen. Wir hatten bereits zuvor in 2 Wochen eine kleine Basis Spieleengine entwickelt, welche sich allerdings während der Ludum Dare sehr schnell als unausgereifter als gedacht entpuppt hat. Da ich mit diesem Post unter anderem bezwecken möchte das auch andere Entwickler Lust bekommen, an der alle 4 Monate stattfindenden LD teilzunehmen, erzähle ich euch einfach mal ein wenig vom Ablauf.
+
+Bevor die Ludum Dare um 3 Uhr los ging haben wir alle nochmal ein kleines Nickerchen gemacht, um nach einem normales Arbeitstag nicht mit voller Müdigkeit in die LD zu starten. Wir sind also alle brav nach der Arbeit ins Bett geschlüpft und haben uns dann zu dritt voller Vorfreude um etwa 23 Uhr im Teamspeak versammelt. Im Channel konnte man bereits die Gute Laune gut raushören und auch an Vorfreude hat es nicht gemangelt. Im Kopf ist man bereits die ersten Ideen für ein Spiel durchgegangen, was sich allerdings als sehr schwer rausstellt, da das Thema der jeweiligen Ludum Dare nicht bekannt ist. Lediglich eine Liste mit 12 Themen ist bekannt, über die abgestimmt werden kann. Das Zwischenergebnis ist nicht einsehbar.
+
+Als es dann endlich soweit war wurde wie bereits gesagt um 3 Uhr das Thema "Tiny World" bekannt gegeben. Zu diesem Zeitpunkt waren wir im Teamspeak zu viert, da ein Freund noch zum Brainstorming dazu kam. Meine Vorgehensweise zum schnell finden eines Themas war in erster Linie: Google Bildersuche
+
+Mal flott "Tiny World" in der Bildersuche eingetippt und schon wird man mit einem Haufen an Inspirationen überschüttet. Allerdings war das ganze nicht wirklich befriedigend. Unser Brainstorming war dafür umso erfolgreicher. Unser Gast hatte eine schöne Spielidee die uns allen von Anfang an gefallen hat:
+Der Spieler startet in einer kleinen Welt / Raum und ist ein Insekt. Alles um ihn herum erscheint ihm als Gigantisch und Überdimensional. Man selber krabbelt unter Tischen, Stühlen und später auch auf Schränken herum. Das Ziel ist es sich gegen andere größere Tierchen durchzusetzen und deren DNA nach dem besiegen aufzusaugen. Durch das aufsaugen der DNA verstärkt man seine Kräfte und bekommt neue Fähigkeiten. So kann die Raupe bereits nach kurzer Zeit und etlichen Kämpfen gegen gigantische Fliegen selber das fliegen erlernen. Dieser Insektenkampf erstreckt sich über einige Zeit, um am Ende gegen den bösen Endgegner "Mensch" kämpfen zu können.
+Diese Spielidee erschien uns allen in 48 Stunden als gut umsetzbar. Somit war das Brainstorming nach etwa 50 Minuten abgeschlossen. Unser Gast verließ und wieder und suchte seinen Schlaf, während wir unsere Werkzeuge auspackten. Als Werkzeuge wählten wir unsere bereits vorher angefangene Engine "DynaEngine", Photoshop und uns selbst.
+
+
+So... Wo fängt man nun an? Und wie teilt man die Arbeit am besten auf 3 Personen auf? Während die anderen beiden sich direkt auf der Spiel stürzten und anfingen eine Struktur für unsere Level / Räume, sowie eine Kamera / Spielersteuerung zu entwickeln, stürzte ich mich auf die Grafiken. Die Bedingungen: Man darf nichts fertiges nehmen und hat 48 Stunden Zeit. Es darf also nicht zu komplex werden. Schnell für den Pixelstil entschieden und es ist folgendes entstanden:
+
+
+
+Zugegeben... Grafisch sicherlich nicht das schönste. Allerdings lässt es sich für 30 Minuten Arbeit auch wieder irgendwo sehen. Nachdem die Grafik fertig war stürzte ich mich auf das GUI System des Spiels. Sprich Splash Screen, Hauptmenü und Ingame Menü. Hier kamen auch bereits die ersten Probleme auf. Unsere Engine hatte noch kein fertiges GUI System und so war es erforderlich, dass ich mir schnell was mit OpenGL zusammenhacken musste. Dies klappte absolut nicht. Elemente des Spiels wurden wahrlos verschoben oder einfach nicht mehr gezeichnet. Immer abwechselnd... Mal klappte die Oberfläche, oder mal eben das Spiel ohne Oberfläche. Beides zusammen wollte aber nicht. Der Spaß hat 5 Stunden gekostet. Immerhin konnten die anderen in dieser Zeit bereits die Spielersteuerung und die Kamera fertig entwickeln.
+
+Derartige Rückschläge sind in einem Wettbewerb einfach nur demotivierend aber gehören wohl einfach dazu. Gegen 8 Uhr Morgens legten wir dann unsere erste Pause ein. Ich habe etwa 2 Stunden lang geschlafen und die anderen 3-4 Stunden. Weiter gehts! Zum schlafen ist die Ludum Dare nicht da ;D
+
+Zugegeben... Diese Frickelei mit der GUI hat mich schon runtergezogen. Es ist schwer optimiert weiterzuarbeiten, wenn man im Hinterkopf demotiviert ist. Ab jetzt fing man an Cross zu arbeiten. Jeder half jedem wo man gerade helfen konnte. Erfolgserlebnisse stellten sich ein, da man leider einsehen musste, dass die eigene Engine alles andere als ausgereift war. Raumdarstellungen mussten komplett neu programmiert werden, Physik Engine Elemente klappten nicht und mussten neu programmiert werden. Alles ging schief. Die Motivation war das erste mal auf einem absoluten Nullpunkt angekommen. Zweifel machten sich breit.
+
+Ein bisschen schöner wurde es, als einer unser Teammitglieder "Christian Landel" extra für uns auf der E-Gitarre rumgeklimpert hat und ein Lied für den Endkampf mit dem Menschen aufgenommen hat. Wir hatten jetzt also sogar eigene Musik! (Hören)
+
+
+Gegen Abend kamen auch noch ein paar Stühle und Tische, sowie erste Texturen ins Spiel dazu, allerdings war wohl jedem von uns jetzt bereits bewusst: "Das schaffen wir nicht mehr". Wahrhaben wollte es allerdings niemand und es wurde tapfer weitergemacht. Ich fing an die eigentliche Spiellogik zu programmieren. Items, Fähigkeiten, Gegner. Auch hier wieder ein Haufen Probleme mit OpenGL. Beim Gegner kamen dann noch Mathematische Formeln hinzu. (Hey du! Hättest du mal früher in Mathe besser aufgepasst...."). Vektorendistanzrechnungen und Skalarprodukt sollten mich nun erstmal beschäftigen. Die anderen haben wohl bereits ein wenig mehr aufgegeben und die Zeit genutzt um etwas mehr Schlaf zu bekommen, oder ein wenig Minecraft zu spielen. Schade.
+
+Die Zeit lief weiter und es kam kurzzeitig noch ein wenig Stimmung auf, als durch unseren Teamspeak "Blümchen", "Da da da" und "Lebt denn der alte Holzmichel noch?" schallten. Wir haben dann die zweite Nacht über noch an Kollisionerkennungen gebastelt (Spieler sollte nicht durch Blöcke laufen können und nicht durch Blöcke fallen), haben dann aber letztlich Sonntag Mittag endgültig eingesehen, dass wir keine Chance mehr haben.
+
+Unser Spiel ist gescheitert. Nicht gescheitert ist allerdings unser Spaß an der Sache. Wir hatten alle 3 massig Spaß an diesem Wochenende. Wir haben unser Spiel bei weitem nicht fertig bekommen. Dafür ist unsere DynaEngine um knapp 11000 Zeilen Quelltext gewachsen und hat nun einen Haufen neuer Features.
+
+Außerdem sind wir nun bereits für nächstes mal besser vorbereitet und auf jeden Fall wieder dabei. Denn bereits als wir aufhörten fiel die Frage: "Wann suchten wir weiter?". Im August! Und dann mit hoffentlich deutlich mehr ausgereifter Engine und Erfahrung.
+
+Ich hoffe ich konnte euch einen kleinen Einblick geben, der vlt. sogar auch interessant zu lesen ist. Für alle die sich für unsere Arbeit interessieren... Auf unserer GitHub Seite findet ihr sowohl den aktuellen Quellcode unserer Engine, als auch den Quelltext des Ludum Dare Spiels: DynaStudios GitHub Profil
+
+Bis bald! :)
