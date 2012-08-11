@@ -1,7 +1,6 @@
 # Impressum #
 ## Betreiber ##
 Patrick Trautmann  
-Hermann-Wandersleb-Ring 8  
-53121 Bonn
+(Anschrift gibt es auf Anfrage)
 ## Kontakt ##
-Ein Kontakt ist per eMail an patrick.trautmann [at ] gmail.com möglich.
+Ein Kontakt ist per eMail an patrick.trautmann [at] gmail.com möglich.
