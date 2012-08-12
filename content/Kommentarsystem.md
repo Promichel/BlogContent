@@ -7,4 +7,4 @@ Um auch weiterhin ohne Backendsystem auszukommen, greife ich auf einen kostenlos
 
 Probiert die neue Kommentarfunktion doch am besten direkt mal aus :o)
 
-[disqus]: http://www.disqus.com
+[disqus.com]: http://www.disqus.com
