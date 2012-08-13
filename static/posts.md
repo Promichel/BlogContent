@@ -1,5 +1,4 @@
 @published[{
-Testartikel,
 Kommentarsystem,
 Ludum-Dare-24,
 Neuer-Blog,
