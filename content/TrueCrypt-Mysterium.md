@@ -1,0 +1,33 @@
+# Das Mysterium TrueCrypt
+Der ein oder andere wird es schon gehört haben: Die Entwicklung der OpenSource Verschlüsselungssoftware "TrueCrypt" ist plötzlich eingestellt worden.
+
+### Keine alten Versionen mehr
+Die unbekannten Entwickler gehen sogar noch einen Schritt weiter und verkünden nicht nur das Ende ihrer Entwicklung, sondern nehmen alle alten Versionen des Krytoprogrammes offline. Stattdessen wird eine neue Version 7.2. veröffentlicht, welche Daten nicht mehr verschlüsseln kann und auschschließlich dazu dienen soll vorhandene verschlüsselte Daten zu portieren.
+
+### Angebliche Sicherheitslücken
+Auf der [TrueCrypt Webseite](http://truecrypt.sourceforge.net/) bekommen Besucher den Text **"WARNING: Using TrueCrypt is not secure as it may contain unfixed security issues"** angzeigt.
+
+Die plötzliche Einstellung des Projektes und der Hinweis auf mögliche Sicherheitsprobleme sind äußerst merkwürdig. Erst vor wenigen Wochen wurde die Erste Phase eines [Code-Audits](http://de.wikipedia.org/wiki/Audit#Software) erfolgreich durchgeführt. Das [Ergebnis]() brachte keine aussergewöhnlichen Fehler oder Sicherheitslücken zu Tage. Eine weitere Phase des Audits sollte ursprünglich in Kürze beginnen.
+
+### Verschwörungstheorie: NSA hat Finger im Spiel
+Kurz nach der Einstellung des Projektes sind bereits erste Verschwörungstheorien im Internet aufgetaucht. Viele Personen aus der Internet-Gemeinde sind fest davon überzeugt, dass hinter der Aktion die NSA steht.
+
+So leiten einige bereits aus der von den vermutlichen TrueCrypt Entwicklern hinterlassenen Warnung einen Hinweis auf den US-Geheimdienst ab. Die Anfangsbuchstaben der Wörter in der Formulierung **"not secure as"** ergeben die Abkürzung *NSA*.
+
+[Vergleicht](https://github.com/warewolf/truecrypt/compare/master...7.2) man die Vorgängerversion mit der Endgültigen TrueCrypt Version, so entdeckt man, dass z.B. plötzlich nach vielen Jahren ohne eine Änderung, nun die Sprachenhinweise von *"English (U.S.)"* auf *English (United States)* geändert wurde. Solche Theorien sind natürlich sehr gewagt und auch mit großer Vorsicht zu beachten.
+
+Es gibt allerdings auch andere Mysterien rund um Thema TrueCrypt, welche Verschwörungstheorien momentan helfen einen festen Sockel zu geben. [Sucht](https://web.archive.org/web/*/http://www.truecrypt.org) man bei der WayBackMachine nach der TrueCrypt Homepage, bekommt man nur den Hinweis **"Der Zugriff auf den Inhalt ist gesperrt. Blocked Site Error"**.
+
+Die WayBackMachine ist hier auch nicht der einzige Ort, an dem sämtliche Links gesperrt oder gelöscht wurden. Auch bei den Suchmaschinen der [PRISM](http://de.wikipedia.org/wiki/PRISM) Unternehmen Google, Mircrosoft (Bing) und Yahoo sind alle zwischengespeicherten Seiten die auf die TrueCrypt Seite verwiesen haben verschwunden oder gelöscht worden.
+
+Seit dem der eMail-Provider LavaBit bereits seine Pforten geschlossen hatte, weil der US-Geheimdienst die Privaten Sicherheitsschlüssel der Benutzer haben wollte. Vermuten zunehmend Leute, dass auch im Fall TrueCrypt die Entwickler die Reisleine gezogen haben, um z.B. den zwanghaften Einbau einer Backdoor zu verhindern.
+
+### TrueCrypt Zukunft ungewiss
+Während die TrueCrypt Webseite empfiehlt auf Produkte wie Bitlocker von Microsoft umzusteigen und hierfür sogar Migrationshilfen anbietet, ist die Netzgemeinde derzeit ratlos und hat noch keine sicheren OpenSource Alternativen zu bieten.
+
+Einige Entwickler untersuchen momentan die Lizenz des TrueCrypt Quellcodes, um so eventuell einen Ableger des Projektes zu erstellen und weiterzuentwickeln.
+
+> Sollten weitere Infos bekannt werden, wird ein weiterer Blogeintrag erscheinen.
+
+Patrick Trautmann - 29.05.2014
+
