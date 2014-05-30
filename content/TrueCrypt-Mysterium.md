@@ -2,12 +2,12 @@
 Der ein oder andere wird es schon gehört haben: Die Entwicklung der OpenSource Verschlüsselungssoftware "TrueCrypt" ist plötzlich eingestellt worden.
 
 ### Keine alten Versionen mehr
-Die unbekannten Entwickler gehen sogar noch einen Schritt weiter und verkünden nicht nur das Ende ihrer Entwicklung, sondern nehmen alle alten Versionen des Krytoprogrammes offline. Stattdessen wird eine neue Version 7.2. veröffentlicht, welche Daten nicht mehr verschlüsseln kann und auschschließlich dazu dienen soll vorhandene verschlüsselte Daten zu portieren.
+Die unbekannten Entwickler gehen sogar noch einen Schritt weiter und verkünden nicht nur das Ende ihrer Entwicklung, sondern nehmen alle alten Versionen des Krytoprogrammes offline. Stattdessen wird eine neue Version 7.2. veröffentlicht, welche Daten nicht mehr verschlüsseln kann und ausschließlich dazu dienen soll vorhandene verschlüsselte Daten zu portieren.
 
 ### Angebliche Sicherheitslücken
-Auf der [TrueCrypt Webseite](http://truecrypt.sourceforge.net/) bekommen Besucher den Text **"WARNING: Using TrueCrypt is not secure as it may contain unfixed security issues"** angzeigt.
+Auf der [TrueCrypt Webseite](http://truecrypt.sourceforge.net/) bekommen Besucher den Text **"WARNING: Using TrueCrypt is not secure as it may contain unfixed security issues"** angezeigt.
 
-Die plötzliche Einstellung des Projektes und der Hinweis auf mögliche Sicherheitsprobleme sind äußerst merkwürdig. Erst vor wenigen Wochen wurde die Erste Phase eines [Code-Audits](http://de.wikipedia.org/wiki/Audit#Software) erfolgreich durchgeführt. Das [Ergebnis]() brachte keine aussergewöhnlichen Fehler oder Sicherheitslücken zu Tage. Eine weitere Phase des Audits sollte ursprünglich in Kürze beginnen.
+Die plötzliche Einstellung des Projektes und der Hinweis auf mögliche Sicherheitsprobleme sind äußerst merkwürdig. Erst vor wenigen Wochen wurde die Erste Phase eines [Code-Audits](http://de.wikipedia.org/wiki/Audit#Software) erfolgreich durchgeführt. Das [Ergebnis]() brachte keine außergewöhnlichen Fehler oder Sicherheitslücken zu Tage. Eine weitere Phase des Audits sollte ursprünglich in Kürze beginnen.
 
 ### Verschwörungstheorie: NSA hat Finger im Spiel
 Kurz nach der Einstellung des Projektes sind bereits erste Verschwörungstheorien im Internet aufgetaucht. Viele Personen aus der Internet-Gemeinde sind fest davon überzeugt, dass hinter der Aktion die NSA steht.
