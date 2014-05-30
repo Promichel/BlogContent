@@ -30,7 +30,7 @@ Einige Entwickler untersuchen momentan die Lizenz des TrueCrypt Quellcodes, um s
 Viele Fragen bleiben offen. Hatten die Entwickler keine Motivation mehr und wollten das Projekt einfach einstellen? Wurden die Entwickler zu etwas durch Behörden oder Geheimdienste gezwungen? Sehen wir hier einen typischen [*Warrant canary*](https://en.wikipedia.org/wiki/Warrant_canary)?
 
 **Update 30.05.2014**
-Die Unternehmung "Open Crypto Audit", welche auch die Erste Phase des TrueCrypt Audits vorgenommmen hat, gab bekannt, dass man trotz der Einstellung des Projektes den Audit [fortfahren möchte](https://twitter.com/OpenCryptoAudit/status/472130444977131520) und auch eventuelle Weiterentwicklungen unterstützen möchte. 
+Die Unternehmung "Open Crypto Audit", welche auch die Erste Phase des TrueCrypt Audits vorgenommmen hat, gab bekannt, dass man trotz der Einstellung des Projektes den Audit [fortfahren möchte](https://twitter.com/OpenCryptoAudit/status/472130444977131520) und auch eventuelle Weiterentwicklungen unterstützen werde. 
 
 > Dieser Artikel befindet sich momentan in Entwicklung. Neuigkeiten werden oft ergänzt und Änderungen vorgenommen.
 > Einige Informationen müssen noch durch seriöse Quellen belegt werden.
